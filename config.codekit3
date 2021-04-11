@@ -40,27 +40,27 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/design\/NeuveltP_homeworkSketch1.sketch" : {
+    "\/dev\/content\/_header.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/design\/NeuveltP_homeworkSketch1.sketch",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_header.html",
       "oF" : 0
     },
-    "\/design\/structure-tags.sketch" : {
+    "\/dev\/content\/index.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/structure-tags.sketch",
-      "oF" : 0
+      "oAP" : "\/dev\/content\/index.html",
+      "oF" : 2
     },
     "\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/global\/head.html",
       "oF" : 0
     },
@@ -68,17 +68,22 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 0
     },
-    "\/dev\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
+    "\/dev\/img\/Companylogo1.png" : {
+      "ft" : 32768,
+      "iS" : 13079,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/dev\/img\/Companylogo1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -244,6 +249,25 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     }
   },
   "hooks" : [
@@ -254,7 +278,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 638898965.76008201,
-    "displayValue" : "in-class-demo-main",
+    "displayValue" : "Neuvelt_hw1",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0
